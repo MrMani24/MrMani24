@@ -52,13 +52,10 @@ hobbies: ["Gaming", "Cinema", "Swimming", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/user-attachments/assets/fcf04763-d82e-414a-a9e4-f5da4f158ae5" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://github.com/user-attachments/assets/ba79355a-0f30-4767-b06e-f3ca8c952f80" width="45" height="45" />
+<img src="https://camo.githubusercontent.com/a07203131922e3fa0d6d0cd787edb5597771b30d712574bbc70a3c7aaa0161ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="56" height="56"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://github.com/user-attachments/assets/dd7bba79-407f-4b0e-8557-6e5395a2445b" alt="figma" width="45" height="45"/>   
@@ -68,8 +65,8 @@ hobbies: ["Gaming", "Cinema", "Swimming", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History</h2>
 <p align="center">
-<img alt="my stats"  width="44%" src="https://github-readme-stats.vercel.app/api?username=MrMani24&show_icons=true&theme=merko"/>
-<img alt="top language" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMani24&layout=compact&theme=merko"/>
+<img alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=MrMani24&show_icons=true&theme=merko" height="180" />
+<img alt="top language" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMani24&layout=compact&theme=merko" height="171"/>
 </p>
 
 <p align="center">
